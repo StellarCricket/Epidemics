@@ -1,11 +1,8 @@
 Location,Date,Disease
+United States,2017-2018,Seasonal influenza
 Nigeria,2001,Cholera
 South Africa,2001,Cholera
-China,2002–2004,Severe acute respiratory syndrome (SARS)
-Hong Kong,2002–2004,Severe acute respiratory syndrome (SARS)
-Taiwan,2002–2004,Severe acute respiratory syndrome (SARS)
-Canada,2002–2004,Severe acute respiratory syndrome (SARS)
-Singapore,2002–2004,Severe acute respiratory syndrome (SARS)
+Worldwide,2002–2004,Severe acute respiratory syndrome (SARS)
 Algeria,2003,Plague
 Afghanistan,2004,Leishmaniasis
 Bangladesh,2004,Cholera
@@ -45,19 +42,19 @@ Worldwide,2009,Mumps
 West Africa,2009–2010,Meningitis
 Worldwide,2009-2010,Pandemic H1N1/09 virus
 Hispaniola,2010–present,"Cholera (strain serogroup O1, serotype Ogawa)"
-Democratic Republic of the Congo,2011–present,Measles
+Democratic Republic of the Congo,2010-2014,Measles
 Vietnam,2011–present,"Hand, foot and mouth disease"
 Pakistan,2011,Dengue fever
 Darfur Sudan,2012,Yellow fever
 Worldwide,2012–present,Middle East respiratory syndrome (MERS)
 Vietnam,2013–2014,Measles
-"Worldwide, primarily concentrated in West Africa",2013–2016,Ebola virus disease Ebola virus virion
+"Worldwide, primarily concentrated in Guinea, Liberia, Sierra Leone",2013–2016,Ebola virus disease Ebola virus virion
 Americas,2013–2015,Chikungunya
 Madagascar,2014–2017,Bubonic plague
 India,2014–2015,"Primarily Hepatitis E, but also Hepatitis A"
 India,2015,Influenza A virus subtype H1N1
 Worldwide,2015–2016,Zika virus
-Africa,2016,Yellow fever
+"Angola, DR Congo, China, Kenya",2016,Yellow fever
 Yemen,2016–present,Cholera
 India,2017,Japanese encephalitis
 India,2018,Nipah virus infection
@@ -65,4 +62,4 @@ Democratic Republic of the Congo & Uganda,August 2018–present,Ebola virus dise
 Democratic Republic of the Congo,2019–present,Measles
 Samoa,2019–present,Measles
 "Asia-Pacific, Latin America",2019–present,Dengue fever
-Worldwide,2019–present,Coronavirus disease 2019
+Worldwide,2019–present,COVID-19 / SARS-CoV-2
